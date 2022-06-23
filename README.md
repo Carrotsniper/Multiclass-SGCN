@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/Carrotsniper/Multiclass-SGCN)] (https://github.com/Carrotsniper/Multiclass-SGCN/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Carrotsniper/Multiclass-SGCN)](https://github.com/Carrotsniper/Multiclass-SGCN/blob/main/LICENSE)
 
 
 
