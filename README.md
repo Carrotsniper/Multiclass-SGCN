@@ -22,8 +22,8 @@ CAR-Net           | 25.72 | 51.80
 DESIRE            | 19.25 | 34.05
 Social-STGCNN     | 26.46 | 42.71
 Semantics-STGCNN  | 18.12 | 29.70
-
-Multiclass-SGCN (ours) | **14.36** | **25.99**
+:---:|:---:|:---:
+**Multiclass-SGCN (ours)** | **14.36** | **25.99**
 
  
 
