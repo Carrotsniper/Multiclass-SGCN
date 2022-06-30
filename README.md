@@ -15,14 +15,13 @@ All the experiments are done with Stanford Drone Dataset (SDD), we compare our p
 Method | mADE | mFDE
 :---:|:---:|:---:
 Linear            | 37.11 | 63.51 
-SF                | 36.48 | 58.14 
+[SF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)                | 36.48 | 58.14 
 Social-LSTM       | 31.19 | 56.97 
 Social-GAN        | 27.25 | 41.44
 CAR-Net           | 25.72 | 51.80
 DESIRE            | 19.25 | 34.05
 Social-STGCNN     | 26.46 | 42.71
 Semantics-STGCNN  | 18.12 | 29.70
-:---:|:---:|:---:
 **Multiclass-SGCN (ours)** | **14.36** | **25.99**
 
  
