@@ -33,10 +33,15 @@ The codebases are built on top of [Semantic-STGCNN](https://github.com/Yutasq/Mu
 - Linux or Windows with Python 3.9, with CUDA verion: 11.3
 - PyTorch ≥ 1.5 and [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch installation.
 - ALl libraries: install from requirements.txt
-- For conda user:
-  '''
+  ```
+  ### For conda user
   conda create --name <env_name> --file requirements.txt
-  '''
+  
+  ### For pip user
+  pip install -r requirements.txt
+
+  ```
+
 
 
 
