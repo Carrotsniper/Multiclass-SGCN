@@ -59,5 +59,18 @@ python train.py
 python test_pred.py
 ```
 
-## Visualisations
+## Cite this Work
+
+If this work is useful, please consider citing the paper, and/or mentioning this repository:
+```bibtex
+@inproceedings{li22multiclasssgcn,
+ author={Li, Ruochen and Katsigiannis, Stamos and Shum, Hubert P. H.},
+ booktitle={Proceedings of the 2022 IEEE International Conference on Image Processing},
+ series={ICIP '22},
+ title={Multiclass-SGCN: Sparse Graph-based Trajectory Prediction with Agent Class Embedding},
+ year={2022},
+ publisher={IEEE},
+ location={Bordeaux, France},
+}
+```
 
