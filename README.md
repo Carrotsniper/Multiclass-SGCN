@@ -1,7 +1,9 @@
 [![GitHub license](https://img.shields.io/github/license/Carrotsniper/Multiclass-SGCN)](https://github.com/Carrotsniper/Multiclass-SGCN/blob/main/LICENSE)
 ## Multiclass-SGCN: Sparse Graph-based Trajectory Prediction with Agent Class Embedding
 
-This is the official implementation of our paper **Multiclass-SGCN**
+This is the official implementation of our paper **Multiclass-SGCN**.
+
+This work has been accepted at the International Conference on Image Processing (ICIP 2022). The conference paper is available here.
 
 ![](images/struct.png)
 
@@ -16,12 +18,12 @@ Method | mADE | mFDE
 :---:|:---:|:---:
 Linear            | 37.11 | 63.51 
 [SF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)                | 36.48 | 58.14 
-Social-LSTM       | 31.19 | 56.97 
-Social-GAN        | 27.25 | 41.44
-CAR-Net           | 25.72 | 51.80
-DESIRE            | 19.25 | 34.05
-Social-STGCNN     | 26.46 | 42.71
-Semantics-STGCNN  | 18.12 | 29.70
+[Social-LSTM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780479)       | 31.19 | 56.97 
+[Social-GAN](https://arxiv.org/abs/1803.10892)        | 27.25 | 41.44
+[CAR-Net](https://arxiv.org/abs/1711.10061)           | 25.72 | 51.80
+[DESIRE](https://arxiv.org/abs/1704.04394)            | 19.25 | 34.05
+[Social-STGCNN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf)     | 26.46 | 42.71
+[Semantics-STGCNN](https://arxiv.org/abs/2108.04740)  | 18.12 | 29.70
 **Multiclass-SGCN (ours)** | **14.36** | **25.99**
 
  
