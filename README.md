@@ -42,14 +42,16 @@ The codebases are built on top of [Semantic-STGCNN](https://github.com/Yutasq/Mu
 
   ```
 #### Steps
+1. Download the codes:
+
 ```
 https://github.com/Carrotsniper/Multiclass-SGCN.git
 cd Multiclass-SGCN
 ```
 
 
-### To train the model run 
+2. To train the model run 
 > python train.py
 
-### To test the model run  
+3. To test the model run  
 > python test_pred.py
