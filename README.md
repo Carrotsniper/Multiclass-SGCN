@@ -26,7 +26,19 @@ Linear            | 37.11 | 63.51
 [Semantics-STGCNN](https://arxiv.org/abs/2108.04740)  | 18.12 | 29.70
 **Multiclass-SGCN (ours)** | **14.36** | **25.99**
 
- 
+## Installation
+The codebases are built on top of [Semantic-STGCNN](https://github.com/Yutasq/Multi-Class-Social-STGCNN) and [SGCN](https://github.com/shuaishiliu/SGCN) 
+
+#### Requirements
+- Linux or Windows with Python 3.9, with CUDA verion: 11.3
+- PyTorch ≥ 1.5 and [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch installation.
+- ALl libraries: install from requirements.txt
+- For conda user:
+  '''
+  conda create --name <env_name> --file requirements.txt
+  '''
+
+
 
 ### To train the model run 
 > python train.py
