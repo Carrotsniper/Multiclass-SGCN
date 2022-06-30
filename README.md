@@ -49,9 +49,12 @@ https://github.com/Carrotsniper/Multiclass-SGCN.git
 cd Multiclass-SGCN
 ```
 
-
 2. To train the model run 
-> python train.py
+```
+python train.py
+```
 
 3. To test the model run  
-> python test_pred.py
+```
+python test_pred.py
+```
