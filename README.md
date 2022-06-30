@@ -34,15 +34,18 @@ The codebases are built on top of [Semantic-STGCNN](https://github.com/Yutasq/Mu
 - PyTorch ≥ 1.5 and [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch installation.
 - ALl libraries: install from requirements.txt
   ```
-  ### For conda user
+  # For conda user
   conda create --name <env_name> --file requirements.txt
   
-  ### For pip user
+  # For pip user
   pip install -r requirements.txt
 
   ```
-
-
+#### Steps
+```
+https://github.com/Carrotsniper/Multiclass-SGCN.git
+cd Multiclass-SGCN
+```
 
 
 ### To train the model run 
